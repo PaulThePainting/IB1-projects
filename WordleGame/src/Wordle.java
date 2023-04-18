@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Wordle {
     public static void main(String[] args) {
         WordleGame game = new WordleGame();
         Scanner scanner = new Scanner(System.in);
